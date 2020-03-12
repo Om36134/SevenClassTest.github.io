@@ -1,0 +1,22 @@
+body {
+    background-color: #1b30bd;
+    background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    color: #fff;
+}
+
+
+.algebra {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.algebra-form {
+    width: 600px;
+    font-size: 24px;
+    letter-spacing: 1px;
+    line-height: 1.5;
+}
